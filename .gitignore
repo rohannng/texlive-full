@@ -1,0 +1,6 @@
+# Mac metadata folder
+.DS_Store
+
+# No intellij files
+.idea
+
